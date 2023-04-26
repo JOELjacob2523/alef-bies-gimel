@@ -1,0 +1,52 @@
+body {
+    background-color: deepskyblue;
+    width: 100%;
+    height: 100%;
+}
+
+.char {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    display: block;
+    width: 25vw;
+    text-align: right;
+    font-size: large;
+}
+
+.total {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    display: block;
+    text-align: center;
+    height: 7vh;
+    width: 25vw;
+    background-color: lightblue;
+    font-size: x-large;
+    color: darkslateblue;
+    font-weight: bolder;
+}
+
+.submit {
+    cursor: pointer;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+    display: block;
+    height: 3vh;
+    width: 10vw;
+    font-size: large;
+    font-family: Livorna;
+    font-weight: 600;
+    border-radius: 10px;
+    background-color: lightgreen;
+    color: darkblue;
+}
+
+.head {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    text-align: center;
+}

@@ -1,0 +1,18 @@
+{
+  "name": "alef-bies-gimel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "char.js",
+  "scripts": {
+    "start": "modemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hebcal": "^2.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
